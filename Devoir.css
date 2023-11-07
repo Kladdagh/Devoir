@@ -1,0 +1,47 @@
+img{
+    float: right;
+    position: relative;
+    right: 600px;
+}
+#flex-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+div{
+    width: 250px;
+    height: 125px;
+    display: flex;
+    flex-direction: column;
+    background-color: #782221;
+    
+}
+
+section{
+    width: 150;
+    height: 125;
+    background-color: #2c1d27;
+    color: #dbc2a4;
+}
+
+h1{
+    color: #dbc2a4;
+}
+
+h2{
+    color: #dbc2a4;
+}
+
+h3{
+    color: #dbc2a4;
+}
+
+#footer{
+    position: relative;
+    float: left;
+    left: 650px;
+}
+
+
+
+
